@@ -9,5 +9,4 @@ To import project:<br>
   4. New > Import Project
 
 ![Screenshot 1](https://github.com/i-Rohan/SQLDatabaseExample/blob/master/Screenshots/device-2015-10-17-204547.png)
-
 ![Screenshot 2](https://github.com/i-Rohan/SQLDatabaseExample/blob/master/Screenshots/device-2015-10-17-205017.png)
