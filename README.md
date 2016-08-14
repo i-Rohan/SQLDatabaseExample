@@ -2,6 +2,8 @@
 
 It's a simple Android Application to understand SQLite3 in Android.
 
+[Sample App] (https://github.com/i-Rohan/SQLDatabaseExample/releases/download/v1.0/app-debug.apk)
+
 **To import project:**<br>
   1. Download ZIP.<br>
   2. Extract<br>
